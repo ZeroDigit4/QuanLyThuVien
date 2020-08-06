@@ -1,0 +1,15 @@
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\vi\QuanLyThuVien.resources.dll
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.fChiTiet.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.fDangNhap.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.fQuanLyThuVien.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.fThongTinCaNhan.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.fThongTinCaNhan.vi.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\vi\QuanLyThuVien.resources.dll
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.exe
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Debug\QuanLyThuVien.pdb

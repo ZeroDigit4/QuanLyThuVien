@@ -1,0 +1,32 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\bin\Release\QuanLyThuVien.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\bin\Release\QuanLyThuVien.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fDangNhap.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fQuanLyThuVien.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\bin\Release\QuanLyThuVien.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\bin\Release\QuanLyThuVien.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fDangNhap.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fQuanLyThuVien.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Release\QuanLyThuVien.exe
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Release\QuanLyThuVien.pdb
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fDangNhap.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fQuanLyThuVien.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.exe
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.pdb
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fThongTinCaNhan.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fChiTiet.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Release\vi\QuanLyThuVien.resources.dll
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\QuanLyThuVien.fThongTinCaNhan.vi.resources
+C:\Users\Cech5\Desktop\QuanLyThuVien\QuanLyThuVien\obj\x86\Release\vi\QuanLyThuVien.resources.dll
